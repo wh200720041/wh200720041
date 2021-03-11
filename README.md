@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wh200720041/wh200720041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=wh200720041&show_icons=true&theme=vue-dark" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wh200720041&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/wh200720041)
 
 ### Wang Han [[homepage](https://wanghan.pro/)]
 
-- :mortar_board: currently a Ph.D. student in Nanyang Technological University.
-- :hammer: interested in computer vision and robotics.
+- :mortar_board: currently a Ph.D. candidate in Nanyang Technological University.
+- :hammer: specialize in computer vision and robotics.
