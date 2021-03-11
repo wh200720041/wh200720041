@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=wh200720041&show_icons=true&count_private=true&hide_title =true" alt="logo" height="180" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=wh200720041&show_icons=true&count_private=true&hide_title=true" alt="logo" height="180" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ### Wang Han [[homepage](https://wanghan.pro/)] &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   ![Profile views](https://gpvc.arturio.dev/wh200720041) 
 
 - :mortar_board: currently a Ph.D. candidate in Nanyang Technological University.
 - :hammer: specialize in computer vision and robotics.
   
-
