@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### Wang Han [[homepage](https://wanghan.pro/)] &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   ![Profile views](https://gpvc.arturio.dev/wh200720041) 
 
-- :mortar_board: currently a Ph.D. candidate in Nanyang Technological University.
+- :🌱: currently working in Huawei Singapore (Todmind Program).
+- :mortar_board: received Ph.D. in Nanyang Technological University.
 - :hammer: specialize in computer vision and robotics.
   
